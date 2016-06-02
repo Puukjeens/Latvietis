@@ -238,7 +238,7 @@
     var basicBot = {
         version: "uzsāk darbu!",
         status: false,
-        name: "basicBot",
+        name: "Mazais latvietis",
         loggedInID: null,
         scriptLink: "https://rawgit.com/Puukjeens/Latvietis/master/basicBot.js",
         cmdLink: "http://git.io/245Ppg",
