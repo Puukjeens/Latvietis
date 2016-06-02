@@ -248,7 +248,7 @@
         retrieveSettings: retrieveSettings,
         retrieveFromStorage: retrieveFromStorage,
         settings: {
-            botName: "basicBot",
+            botName: "Mazais latvietis",
             language: "english",
             chatLink: "https://rawgit.com/Puukjeens/Latvietis/master/lang/en.json",
             scriptLink: "https://rawgit.com/Puukjeens/Latvietis/master/basicBot.js",
